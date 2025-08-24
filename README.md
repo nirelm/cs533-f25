@@ -4,7 +4,7 @@ Instructor: [Kritika Garg](https://kritikagarg.github.io/)
 
 Email: kgarg001@odu.edu
 
-Syllabus: [Syllabus.pdf](Syllabus.pdf)
+Syllabus: [Syllabus.pdf](Web Security - Syllabus-Fall2025.pdf)
 
 Class Canvas: https://canvas.odu.edu/courses/187687
 
