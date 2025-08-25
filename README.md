@@ -35,6 +35,26 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
 
 ## Class Schedule 
 (subject to change; slides will be updated prior to class)
+| **Week** | **Date** | **Topic** | **Homework Assigned** | **Homework Due** |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | August 26, 2025 | Introduction and Administrivia, Document Object Model, Javascript, HTTP, Security fundamentals | Assignment 1: Basics of HTML, Javascript, and Node | Due: September 7, 2025 |
+| 2 | September 2, 2025 | Cookies, Sessions |  |  |
+| 3 | September 9, 2025 | Cross-Site Request Forgery, Same Origin Policy | Assignment 2: Getting Started with Node.js, Express, and Cookies | Due: September 21, 2025 |
+| 4 | September 16, 2025 | Exceptions to the Same Origin Policy |  |  |
+| 5 | September 23, 2025 | Cross-Site Scripting (XSS) | Assignment 3: Cookie Report | Due: October 5, 2025 |
+| 6 | September 30, 2025 | XSS and Content Security Policy (CSP) |  |  |
+| 7 | October 7, 2025 | Fingerprinting and Privacy | Assignment 4: Frames | Due: October 19, 2025 |
+| 8 | October 14, 2025 | Transport Layer Security |  |  |
+| 9 | October 21, 2025 | HSTS, Certificate Transparency | Assignment 5: Same-origin Policy, CORS, CSP | Due: November 2, 2025 |
+| 10 | October 28, 2025 | Authentication |  |  |
+| 11 | November 4, 2025 | Local HTTP Server Security | Assignment 6: Fingerprinting | Due: November 16, 2025 |
+| 12 | November 11, 2025 | DNS rebinding attacks |  |  |
+| 13 | November 18, 2025 | UI Denial-of-service, Phishing, Side Channels | Assignment 7: Phishing | Due: December 2, 2025 |
+| 14 | November 25, 2025 | Thanksgiving Break |  |  |
+| 15 | December 2, 2025 | Rehosting, Web Archiving |  |  |
+
+
+## WEEKLY OVERVIEW
 
 ### Week 01 - Introduction and Administrivia, Document Object Model, Javascript, HTTP, Security fundamentals
    * Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE#t=4m20s), [3](https://education.github.com/git-cheat-sheet-education.pdf)
