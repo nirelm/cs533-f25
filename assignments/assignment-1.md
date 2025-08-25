@@ -115,4 +115,9 @@ npm rm -g learnyouhtml javascripting learnyounode
 * Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing))
 
 
+### Canvas URL submission
 
+Submit the URL of your report/readme (not the URL of your repo) in Canvas under assignment1. The URL should be something like
+https://github.com/kritikagarg/cs533-f25/blob/main/assignments/Garg/1/README.md
+
+If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.
