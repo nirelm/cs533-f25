@@ -14,7 +14,7 @@ Class Announcements: https://canvas.odu.edu/courses/187687/announcements
 
 **Class Timings**: This is an asynchronous course offered online through Canvas. This course does not have any required lecture times. 
 
-### Course Objectives
+## Course Objectives
 
 The goal of this course is to review common web security vulnerabilities and exploits, along with the defenses designed to counter them. We will explore the ongoing tension between the web as a "simple document reader" and the web as an "application environment". As the web ecosystem grows in functionality, so too do its vulnerabilities"
 
@@ -26,16 +26,17 @@ You’ll also get hands-on experience with key technologies such as Git and GitH
 Prerequisites: Unix/Linux, Web, HTML
 
 
-### Course Inspiration
+## Course Inspiration
 
 This course builds upon the foundation established by [Dr. Michael L. Nelson](http://www.cs.odu.edu/~mln/), who originally designed and previously taught the course. We will continue to benefit from his contributions by using the recorded video lectures and slides he developed as part of the weekly learning materials.  
 
 The design and inspiration for this course also draw from **[CS 253: Web Security, Stanford, Fall 2019](https://web.stanford.edu/class/cs253/)**. A special thanks to **[Feross Aboukhadijeh](https://feross.org/)** for generously sharing his course resources (though any mistakes remain my own).  
 
 
-### Class Schedule (subject to change; slides will be updated prior to class)
+## Class Schedule 
+(subject to change; slides will be updated prior to class)
 
-* Week 01 - Introduction and Administrivia, Document Object Model, Javascript, HTTP, Security fundamentals
+#### Week 01 - Introduction and Administrivia, Document Object Model, Javascript, HTTP, Security fundamentals
    * Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE#t=4m20s), [3](https://education.github.com/git-cheat-sheet-education.pdf)
    * Markdown [1](https://guides.github.com/features/mastering-markdown/), [2](https://www.markdownguide.org/cheat-sheet/)
    * [Node.js](https://nodejs.org/)
@@ -123,7 +124,8 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
 
 * Week 16 - Exam 
 
-### Assignments (subject to change)
+## Assignments 
+(subject to change)
 
 * Weekly review of current events related to web security on social media (Use #cs533f25): 
     * Canvas Discusssion Forum   
