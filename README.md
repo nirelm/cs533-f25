@@ -46,7 +46,8 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
    * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
    * Inside look at modern web browser: [1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [3](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
    * [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/webarch/)
-   * [Class slides](https://docs.google.com/presentation/d/1VH6XEHQUUDqGKRti_QwGHLSo1INi0oLKKwZu9kiqsCM/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing)
+   
 
 ### Week 02 - Cookies, Sessions
    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
