@@ -11,4 +11,4 @@
 <img src="javascript/javascripting-1of20.png" width="700">
 <img src="node/learnyounode-1of13.png" width="700">
 
-* The video of the files and test completion pages is available at: [https://youtu.be/i1cYvm1NWJk](https://youtu.be/i1cYvm1NWJk)
+* The video of the files and test completion pages is available at: [https://youtu.be/NdTHMG_RX-c](https://youtu.be/NdTHMG_RX-c)
