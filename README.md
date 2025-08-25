@@ -16,8 +16,7 @@ Class Announcements: https://canvas.odu.edu/courses/187687/announcements
 
 ### Course Objectives
 
-Course Description
-The goal of this course is to review common web security vulnerabilities and exploits, along with the defenses designed to counter them. We will explore the ongoing tension between the web as a “simple document reader” and the web as an “application environment.” As the web ecosystem grows in functionality, so too do its vulnerabilities.
+The goal of this course is to review common web security vulnerabilities and exploits, along with the defenses designed to counter them. We will explore the ongoing tension between the web as a "simple document reader" and the web as an "application environment". As the web ecosystem grows in functionality, so too do its vulnerabilities"
 
 ### What You’ll Learn
 By the end of this course, you’ll understand the core principles of web security and how different attacks and defenses work. Topics include the browser security model, web application vulnerabilities, injection, denial-of-service, TLS attacks, privacy, fingerprinting, the same-origin policy, cross-site scripting, authentication, JavaScript security, emerging threats, defense-in-depth, writing secure code, web archiving, and rehosting.
