@@ -133,7 +133,7 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
     * Canvas Discusssion Forum   
 
 * Assignment 1: Basics of HTML, Javascript, and Node
-   * [Due: September 6](/assignments/assignment-1.md)
+   * [Due: September 7](/assignments/assignment-1.md)
 
 
 
