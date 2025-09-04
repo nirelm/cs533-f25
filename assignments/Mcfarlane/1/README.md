@@ -44,11 +44,8 @@ Each directory contains my solutions, along with necessary files for verificatio
 ---
 
 ## Video Demonstration
-A short video walkthrough showing:
-- Listing the files in my directory  
-- The completion/end screen for **learnyouhtml**, **javascripting**, and **learnyounode**  
 
-👉 [Watch the video on YouTube](https://www.youtube.com/your-video-link-here)
+👉 [Watch the video on YouTube](https://youtu.be/KP9K9llqMEw)
 
 ---
 
