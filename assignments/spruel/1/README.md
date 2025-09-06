@@ -1,4 +1,4 @@
-## This is an example of how Assignment 1 should be submitted
+## Rodwin Spruel CS533 Assignment 1
 
 * We have three directories
   * [html](html)
@@ -7,8 +7,8 @@
 
 * Here are screen shots of (partial) completion.
 
-<img src="html/learnyouhtml-2of11.png" width="700">
-<img src="javascript/javascripting-1of20.png" width="700">
-<img src="node/learnyounode-1of13.png" width="700">
+<img src="html/1_html.png" width="700">
+<img src="javascript/1_js.png" width="700">
+<img src="node/1_node.png" width="700">
 
-* The video of the files and test completion pages is available at: [https://youtu.be/NdTHMG_RX-c](https://youtu.be/NdTHMG_RX-c)
+* The video of the files and test completion pages is available at: [https://youtu.be/N3oAcKtLgTc](https://youtu.be/N3oAcKtLgTc)
