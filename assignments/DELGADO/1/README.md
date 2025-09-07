@@ -5,5 +5,5 @@
 <img src = "screenshots/js_screenshot.png" width="700">
 <img src = "screenshots/node_screenshot.png" width="700">
 
-#Video
-To be completed
+## Video
+Assignment 1 Video: https://youtu.be/F9O4Fkkr1ew
