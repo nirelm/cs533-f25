@@ -11,4 +11,4 @@
 <img src="javascript/js-thomson.png" width="700">
 <img src="node/node-thomson.png" width="700">
 
-* The video of the files and test completion pages is available on: [Youtube]https://youtu.be/Nn6NMIFr7hM?si=9N2ogQgrEwo5T-39)
+* The video of the files and test completion pages is available on: [Youtube](https://youtu.be/Nn6NMIFr7hM?si=9N2ogQgrEwo5T-39)
