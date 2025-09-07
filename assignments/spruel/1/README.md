@@ -5,7 +5,7 @@
   * [javascript](javascript)
   * [node](node)
 
-* Here are screen shots of (partial) completion.
+* Here are screen shots of completion.
 
 <img src="html/1_html.png" width="700">
 <img src="javascript/1_js.png" width="700">
