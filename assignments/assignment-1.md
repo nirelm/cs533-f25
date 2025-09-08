@@ -112,7 +112,8 @@ git commit -m "A1 submission" # or whatever mesg is appropriate
 git push origin main # this moves the code from your local machine to github.com
 ```
 
-Then inspect in your fork on GitHub (e.g., https://github.com/YOURGITHUBACCTNAME/cs533-f25).  If all looks good, issue a pull request (PR) to my repo (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing) for details).
+Then inspect in your fork on GitHub (e.g., https://github.com/YOURGITHUBACCTNAME/cs533-f25).  If all looks good, issue a [pull request (PR)](https://github.com/kritikagarg/cs533-f25/pulls?q=is%3Apr) to my repo.
+(see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing) for details).
 
 The idea is to collect all of the code, images, documentation, etc. necessary for someone to understand Assginment 1 into a single directory.  If it is code, data, etc. that you created, move it somewhere into ```assignments/YOURLASTNAME/1```.  We will follow this pattern for all assignments.
 
