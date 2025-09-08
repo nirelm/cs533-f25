@@ -61,7 +61,7 @@ mkdir assignments/Garg/2
    1. upload all of your *.html,
    2. upload all of your *.js,
    3. **README.md** file that contains ( _You MUST include a README.md file._  )
-      1. documents the assignment 2
+      1. documents the assignment
       2. link to the Youtube video. 
 * When finished, use GitHub to push your changes to fork:
 ````
@@ -76,7 +76,7 @@ Go to your fork on GitHub → click Compare & Pull Request → submit
 
 ### Canvas URL submission
 
-Submit the URL of your report/readme (not the URL of your repo) in Canvas under assignment1. 
+Submit the URL of your **README.md** (not the URL of your repo) in Canvas under assignment. 
 
 If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.
 
