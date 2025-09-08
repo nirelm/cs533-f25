@@ -21,7 +21,7 @@ Points available: 15
 
 ## Youtube video
 
-* Record your screen of you 
+Record your screen of you 
   1. viewing the files, 
   2. starting the server, 
   3. loading each of the four paths in your browser.  
@@ -57,10 +57,10 @@ mkdir assignments/YOURLASTNAME/2
 mkdir assignments/Garg/2
 ```
 
-* In this directory "2", upload the following files:
+In this directory "2", upload the following files:
    1. upload all of your *.html,
    2. upload all of your *.js,
-   3. **README.md** file that contains ( _You MUST include a README.md file._  )
+   3. **README.md** file that ( _You MUST include a README.md file._  )
       1. documents the assignment
       2. link to the Youtube video. 
 * When finished, use GitHub to push your changes to fork:
