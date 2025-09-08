@@ -5,5 +5,6 @@ These are the screenshots with completion status.
 ![image alt](https://github.com/jaqui004/cs533-f25/blob/main/assignments/aquino/1/javascript/Javascript%20Screenshot.png)
 ![image alt](https://github.com/jaqui004/cs533-f25/blob/main/assignments/aquino/1/node/Node%20Screenshot.png)
 
-The video with the files and completion is found here: https://www.youtube.com/watch?v=bVM6eOzJixQ 
+[The video with the files and completion is found here](https://www.youtube.com/watch?v=udO1eHFMB-w)
+
 
