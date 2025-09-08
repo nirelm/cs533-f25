@@ -2,7 +2,7 @@
 
 Due: **2025-09-21**
 
-Points available: 15
+Points available: 15 + 2(bonus extra credit)
 
 ## node.js, express, cookie-parser
 
@@ -63,13 +63,14 @@ In this directory "2", upload the following files:
    3. **README.md** file that ( _You MUST include a README.md file._  )
       1. documents the assignment
       2. link to the Youtube video. 
-* When finished, use GitHub to push your changes to fork:
+
+When finished, use GitHub to push your changes to fork:
 ````
 git add .
 git commit -m "Describe your changes here"
 git push origin main
 ````
-* Then inspect in your fork on GitHub (e.g., https://github.com/YOURGITHUBACCTNAME/cs533-f25).  If all looks good, issue a pull request (PR) to my repo
+Inspect in your fork on GitHub (e.g., https://github.com/YOURGITHUBACCTNAME/cs533-f25).  If all looks good, issue a pull request (PR) to my repo
 
 ### Create a Pull Request
 Go to your fork on GitHub → click Compare & Pull Request → submit
@@ -83,4 +84,4 @@ If you make changes to your report after submitting in Canvas, I will use the la
 
 ## Extra Credit (2 points)
 
-* install and demonstrate a favicon.ico for your site
+Install and demonstrate a favicon.ico for your site
