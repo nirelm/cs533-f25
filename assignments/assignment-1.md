@@ -25,7 +25,7 @@ You can omit "-g" if you don't want to install them globally, but it's probably 
 Set up an account on GitHub.  Go to the class repo, [https://github.com/kritikagarg/cs533-f25](https://github.com/kritikagarg/cs533-f25) and click the "Fork" button (top right).  This will create a copy of my repository in your GitHub account.  But the files nave not been moved to your local machine.  To do that, open a terminal window (replace YOURGITHUBACCTNAME (mine is "kritikagarg") with the name of your GitHub account):
 
 ```
-git clone https://github.com/YOURGITHUBACCTNAME/cs533-f24.git
+git clone https://github.com/YOURGITHUBACCTNAME/cs533-f25.git
 cd cs533-f25
 ```
 
@@ -82,14 +82,23 @@ learnyounode # continue until complete
 
 The HTML and JavaScript workshops are pretty easy, so you should have no problems.  For learning Node, you'll probably need to read the [Node.js documentation](https://nodejs.org/api/).  Ask the on the discussion forum if you get stuck.  
 
+### Youtube video
+
+* Record your screen of you 1) viewing the files, and 2) executing each of the three commands to show completion.  I am issuing grades based on what your video shows; if you don't show/demonstrate something in your video, I'm not grading it.  
+* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing))
+
+
 ### Submission
 
+#### Prepare Report Using Markdown.
 * Create a README.md that contains:
   * A description of the assignment, directories, files, etc.
   * Three screen shots, one each showing completion of learnyouhtml, javascripting, and learnyounode.
   * A link to a Youtube video showing you list the files in the directory and showing the end screen for each workshop.
 
 Again, look at [Garg/1](Garg/1) for a template.
+
+#### Github submission
 
 To upload to GitHub, do:
 
@@ -109,13 +118,7 @@ After the assignment is complete, you can optionally uninstall these packages wi
 npm rm -g learnyouhtml javascripting learnyounode
 ```
 
-### Youtube video
-
-* Record your screen of you 1) viewing the files, and 2) executing each of the three commands to show completion.  I am issuing grades based on what your video shows; if you don't show/demonstrate something in your video, I'm not grading it.  
-* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing))
-
-
-### Canvas URL submission
+#### Canvas URL submission
 
 Submit the URL of your report/readme (not the URL of your repo) in Canvas under assignment1. The URL should be something like
 https://github.com/kritikagarg/cs533-f25/blob/main/assignments/Garg/1/README.md
