@@ -126,14 +126,16 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
 
 ### Week 16 - Exam Week (no class) 
 
-## Assignments 
-(subject to change)
+## Assignments
 
 * Weekly review of current events related to web security on social media (Use #cs533f25): 
     * Canvas Discusssion Forum   
 
 * Assignment 1: Basics of HTML, Javascript, and Node
    * [Due: September 7](/assignments/assignment-1.md)
+
+* Assignment 2: Getting Started with Node.js, Express, and Cookies
+   * [Due: September 21](/assignments/assignment-2.md)
 
 
 
