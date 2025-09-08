@@ -96,9 +96,9 @@ I am issuing grades based on what your video shows; if you don't show/demonstrat
 
 ### Prepare Report Using Markdown.
 * Create a README.md that contains:
-  * A description of the assignment, directories, files, etc.
-  * Three screen shots, one each showing completion of learnyouhtml, javascripting, and learnyounode.
-  * A link to a Youtube video showing you list the files in the directory and showing the end screen for each workshop.
+  1. A description of the assignment, directories, files, etc.
+  2. Three screen shots, one each showing completion of learnyouhtml, javascripting, and learnyounode.
+  3. A link to a Youtube video showing you list the files in the directory and showing the end screen for each workshop.
 
 Again, look at [Garg/1](Garg/1) for a template.
 
