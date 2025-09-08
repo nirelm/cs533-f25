@@ -1,16 +1,16 @@
-## Assignment 1, CS 433/533 Web Security, Fall 2024
+# Assignment 1, CS 433/533 Web Security, Fall 2024
 
 Due: 2025-09-07
 
 Points available: 15
 
-### Basics of HTML, JavaScript, and Node
+## Basics of HTML, JavaScript, and Node
 
 * This is based on [assignment 0](https://web.stanford.edu/class/cs253/assign0) from Feross Aboukhadijeh's class.  Consult the instructions there for additional guidance if needed.
 
 * I've also submitted a (partial) version of what your submission should look like; consult [Garg/1](Garg/1) if you are unsure what things should be named, what to upload, etc.  
 
-### Using npm to download "workshops" about HTML, JavaScript, and Node
+## Using npm to download "workshops" about HTML, JavaScript, and Node
 
 On your computer, use npm to globally ("-g") install these packages:
 
@@ -20,7 +20,7 @@ npm install -g learnyouhtml javascripting learnyounode
 
 You can omit "-g" if you don't want to install them globally, but it's probably better to make them global.
 
-### Setting Up GitHub
+## Setting Up GitHub
 
 Set up an account on GitHub.  Go to the class repo, [https://github.com/kritikagarg/cs533-f25](https://github.com/kritikagarg/cs533-f25) and click the "Fork" button (top right).  This will create a copy of my repository in your GitHub account.  But the files nave not been moved to your local machine.  To do that, open a terminal window (replace YOURGITHUBACCTNAME (mine is "kritikagarg") with the name of your GitHub account):
 
@@ -31,7 +31,7 @@ cd cs533-f25
 
 This has now moved a copy of your fork of my repo from github.com to your local machine, where you will do your programming, development, testing, etc.  
 
-### Preparing Assignment 1 for Submission
+## Preparing Assignment 1 for Submission
 
 This assumes you're already in the copy of your repo on your local machine; YOURLASTNAME is your last name (mine is "Garg")):
 
@@ -82,15 +82,19 @@ learnyounode # continue until complete
 
 The HTML and JavaScript workshops are pretty easy, so you should have no problems.  For learning Node, you'll probably need to read the [Node.js documentation](https://nodejs.org/api/).  Ask the on the discussion forum if you get stuck.  
 
-### Youtube video
+## Youtube video
 
-* Record your screen of you 1) viewing the files, and 2) executing each of the three commands to show completion.  I am issuing grades based on what your video shows; if you don't show/demonstrate something in your video, I'm not grading it.  
+* Record your screen of you 
+  1. viewing the files 
+  2. executing each of the three commands to show completion.  
 * Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing))
 
+I am issuing grades based on what your video shows; if you don't show/demonstrate something in your video, I'm not grading it.  
 
-### Submission
 
-#### Prepare Report Using Markdown.
+## Submission
+
+### Prepare Report Using Markdown.
 * Create a README.md that contains:
   * A description of the assignment, directories, files, etc.
   * Three screen shots, one each showing completion of learnyouhtml, javascripting, and learnyounode.
@@ -98,7 +102,7 @@ The HTML and JavaScript workshops are pretty easy, so you should have no problem
 
 Again, look at [Garg/1](Garg/1) for a template.
 
-#### Github submission
+### Github submission
 
 To upload to GitHub, do:
 
@@ -118,7 +122,7 @@ After the assignment is complete, you can optionally uninstall these packages wi
 npm rm -g learnyouhtml javascripting learnyounode
 ```
 
-#### Canvas URL submission
+### Canvas URL submission
 
 Submit the URL of your report/readme (not the URL of your repo) in Canvas under assignment1. The URL should be something like
 https://github.com/kritikagarg/cs533-f25/blob/main/assignments/Garg/1/README.md
