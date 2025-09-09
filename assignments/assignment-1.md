@@ -22,7 +22,9 @@ You can omit "-g" if you don't want to install them globally, but it's probably 
 
 ## Setting Up GitHub
 
-Set up an account on GitHub.  Go to the class repo, [https://github.com/kritikagarg/cs533-f25](https://github.com/kritikagarg/cs533-f25) and click the "Fork" button (top right).  This will create a copy of my repository in your GitHub account.  But the files nave not been moved to your local machine.  To do that, open a terminal window (replace YOURGITHUBACCTNAME (mine is "kritikagarg") with the name of your GitHub account):
+Set up an account on GitHub.  Go to the class repo, [https://github.com/kritikagarg/cs533-f25](https://github.com/kritikagarg/cs533-f25) and click the "Fork" button (top right).  This will create a copy of my repository in your GitHub account.  
+
+But the files nave not been moved to your local machine.  To do that, open a terminal window (replace YOURGITHUBACCTNAME (mine is "kritikagarg") with the name of your GitHub account):
 
 ```
 git clone https://github.com/YOURGITHUBACCTNAME/cs533-f25.git
@@ -107,13 +109,16 @@ Again, look at [Garg/1](Garg/1) for a template.
 To upload to GitHub, do:
 
 ```
-git add 1 # this will recursively add all the files in the directory
-git commit -m "A1 submission" # or whatever mesg is appropriate
-git push origin main # this moves the code from your local machine to github.com
+cd cs533-f25/assignments/YOURLASTNAME/
+git add 1            #this will add all the files in the directory
+git commit -m "A1 submission"      #or whatever mesg is appropriate
+git push origin main      #this moves the code from your local machine to github.com
 ```
 
 Then inspect in your fork on GitHub (e.g., https://github.com/YOURGITHUBACCTNAME/cs533-f25).  If all looks good, issue a [pull request (PR)](https://github.com/kritikagarg/cs533-f25/pulls?q=is%3Apr) to my repo.
 (see [week 1 slides](https://docs.google.com/presentation/d/1zX3S6VLJPYU5Em_nvbPye7Lk5ueKZQTzio8tOYtxVR4/edit?usp=sharing) for details).
+ ```Go to your fork on GitHub → click Compare & Pull Request → submit```
+
 
 The idea is to collect all of the code, images, documentation, etc. necessary for someone to understand Assginment 1 into a single directory.  If it is code, data, etc. that you created, move it somewhere into ```assignments/YOURLASTNAME/1```.  We will follow this pattern for all assignments.
 
