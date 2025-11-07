@@ -6,6 +6,12 @@
     "generate": "node generate.js"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "express": "^5.1.0"
-  }
+  },
+  "description": "- Total tested: 100 - Framable: 33 - Not Framable: 67 - Common protections:   - X-Frame-Options: SAMEORIGIN   - Content-Security-Policy: frame-ancestors 'none'",
+  "main": "generate.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

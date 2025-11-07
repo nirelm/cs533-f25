@@ -1,0 +1,101 @@
+Website URL,Framable,Reason
+https://creativecommons.org,Yes,No X-Frame-Options or CSP header
+https://buzzfeed.com,No,X-Frame-Options: SAMEORIGIN
+https://google.fr,No,X-Frame-Options: DENY
+https://doubleclick.net,Yes,No X-Frame-Options or CSP header
+https://hubspot.com,No,X-Frame-Options: SAMEORIGIN
+https://line.me,Yes,No X-Frame-Options or CSP header
+https://softonic.com,No,X-Frame-Options: SAMEORIGIN
+https://google.co.uk,No,X-Frame-Options: DENY
+https://bbc.com,No,X-Frame-Options: SAMEORIGIN
+https://microsoft.com,Yes,No X-Frame-Options or CSP header
+https://office.com,No,X-Frame-Options: SAMEORIGIN
+https://ru.wikipedia.org,Yes,No X-Frame-Options or CSP header
+https://cnet.com,Yes,No X-Frame-Options or CSP header
+https://scmp.com,No,X-Frame-Options: SAMEORIGIN
+https://ovh.com,Yes,No X-Frame-Options or CSP header
+https://developers.google.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://webnode.page,No,X-Frame-Options: SAMEORIGIN
+https://freepik.com,No,X-Frame-Options: SAMEORIGIN
+https://unicef.org,No,Content-Security-Policy: frame-ancestors 'none'
+https://afternic.com,No,X-Frame-Options: SAMEORIGIN
+https://www.wix.com,Yes,No X-Frame-Options or CSP header
+https://id.wikipedia.org,Yes,No X-Frame-Options or CSP header
+https://tvtropes.org,No,X-Frame-Options: SAMEORIGIN
+https://nature.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://springer.com,Yes,No X-Frame-Options or CSP header
+https://techradar.com,No,X-Frame-Options: SAMEORIGIN
+https://4shared.com,Yes,No X-Frame-Options or CSP header
+https://brandbucket.com,No,X-Frame-Options: SAMEORIGIN
+https://europapress.es,No,X-Frame-Options: SAMEORIGIN
+https://amzn.to,No,Content-Security-Policy: frame-ancestors 'none'
+https://linkedin.com,No,X-Frame-Options: DENY
+https://spotify.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://amazonaws.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://sciencedaily.com,No,X-Frame-Options: SAMEORIGIN
+https://www.blogger.com,Yes,No X-Frame-Options or CSP header
+https://gizmodo.com,Yes,No X-Frame-Options or CSP header
+https://rapidshare.com,No,Site unavailable / no response
+https://dan.com,No,X-Frame-Options: SAMEORIGIN
+https://walmart.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://quora.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://archives.gov,No,X-Frame-Options: SAMEORIGIN
+https://stores.jp,No,X-Frame-Options: SAMEORIGIN
+https://google.pl,No,X-Frame-Options: DENY
+https://fifa.com,No,X-Frame-Options: SAMEORIGIN
+https://latimes.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://news.com.au,Yes,No X-Frame-Options or CSP header
+https://wiley.com,No,X-Frame-Options: SAMEORIGIN
+https://admin.ch,Yes,No X-Frame-Options or CSP header
+https://mystrikingly.com,No,X-Frame-Options: SAMEORIGIN
+https://nydailynews.com,Yes,No X-Frame-Options or CSP header
+https://express.co.uk,No,Content-Security-Policy: frame-ancestors 'none'
+https://foursquare.com,No,X-Frame-Options: SAMEORIGIN
+https://intel.com,Yes,No X-Frame-Options or CSP header
+https://ea.com,No,X-Frame-Options: SAMEORIGIN
+https://harvard.edu,No,Content-Security-Policy: frame-ancestors 'none'
+https://theatlantic.com,Yes,No X-Frame-Options or CSP header
+https://unesco.org,Yes,No X-Frame-Options or CSP header
+https://reverbnation.com,No,X-Frame-Options: SAMEORIGIN
+https://googleblog.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://sciencedirect.com,Yes,No X-Frame-Options or CSP header
+https://arxiv.org,No,X-Frame-Options: SAMEORIGIN
+https://google.ru,No,X-Frame-Options: DENY
+https://pbs.org,No,Content-Security-Policy: frame-ancestors 'none'
+https://thesun.co.uk,No,X-Frame-Options: SAMEORIGIN
+https://googleusercontent.com,Yes,No X-Frame-Options or CSP header
+https://outlook.com,No,X-Frame-Options: DENY
+https://hindustantimes.com,No,X-Frame-Options: SAMEORIGIN
+https://addtoany.com,Yes,No X-Frame-Options or CSP header
+https://vk.com,Yes,No X-Frame-Options or CSP header
+https://twitch.tv,No,X-Frame-Options: SAMEORIGIN
+https://foxnews.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://tools.google.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://target.com,No,X-Frame-Options: SAMEORIGIN
+https://fr.wikipedia.org,No,X-Frame-Options: SAMEORIGIN
+https://istockphoto.com,No,X-Frame-Options: SAMEORIGIN
+https://amazon.es,No,Content-Security-Policy: frame-ancestors 'none'
+https://wa.me,Yes,No X-Frame-Options or CSP header
+https://dropcatch.com,No,X-Frame-Options: SAMEORIGIN
+https://forms.gle,No,X-Frame-Options: DENY
+https://google.co.th,Yes,No X-Frame-Options or CSP header
+https://vice.com,No,X-Frame-Options: SAMEORIGIN
+https://thenai.org,No,Content-Security-Policy: frame-ancestors 'none'
+https://francetvinfo.fr,No,X-Frame-Options: SAMEORIGIN
+https://fandom.com,Yes,No X-Frame-Options or CSP header
+https://gstatic.com,No,X-Frame-Options: DENY
+https://clarin.com,No,X-Frame-Options: SAMEORIGIN
+https://myaccount.google.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://reddit.com,Yes,No X-Frame-Options or CSP header
+https://ft.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://policies.google.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://photos1.blogger.com,Yes,No X-Frame-Options or CSP header
+https://wikihow.com,No,X-Frame-Options: SAMEORIGIN
+https://guardian.co.uk,No,Content-Security-Policy: frame-ancestors 'none'
+https://kakao.com,No,X-Frame-Options: SAMEORIGIN
+https://howstuffworks.com,No,X-Frame-Options: SAMEORIGIN
+https://nicovideo.jp,No,X-Frame-Options: SAMEORIGIN
+https://theconversation.com,No,Content-Security-Policy: frame-ancestors 'none'
+https://britannica.com,Yes,No X-Frame-Options or CSP header
+https://zoom.us,Yes,No X-Frame-Options or CSP header
+https://bloglovin.com,Yes,No X-Frame-Options or CSP header

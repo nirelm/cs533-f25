@@ -1,25 +1,47 @@
 <!doctype html>
 <html>
-  <head><meta charset="utf-8"><title>Parent page</title></head>
-  <body>
-    <h2>Parent page — reads child iframe cookie</h2>
-    <iframe id="childframe" src="child.html" width="800" height="300"></iframe>
-    <div id="cookies">Cookies visible to parent: (checking...)</div>
+<head>
+  <meta charset="utf-8">
+  <title>Parent page — reads child iframe cookie</title>
+  <style>
+    body { font-family: serif; padding: 18px; }
+    iframe { border: 1px solid #999; display:block; margin-bottom:12px; width: 900px; height: 350px; }
+    #log { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>Parent page — reads child iframe cookie</h1>
 
-    <script>
-      const frame = document.getElementById('childframe');
-      frame.addEventListener('load', () => {
-        try {
-          // since same-origin, we can read iframe's document.cookie
-          const childCookies = frame.contentWindow.document.cookie;
-          document.getElementById('cookies').innerHTML =
-            '<strong>Cookies visible to parent:</strong><br/>' + (childCookies || '(no cookies visible)');
-        } catch (e) {
-          document.getElementById('cookies').textContent =
-            'Error reading iframe cookies (likely cross-origin): ' + e.message;
-        }
-      });
-    </script>
-  </body>
+  <div>
+    <strong>Child page — sets cookie with Path=/</strong>
+    <!-- iframe MUST have id="victim" exactly -->
+    <!-- Set src to /set-cookie so server route sets the cookie before child loads -->
+    <iframe id="victim" src="/set-cookie"></iframe>
+  </div>
+
+  <div>
+    <strong>Cookies visible to parent:</strong>
+    <div id="log">(checking...)</div>
+  </div>
+
+  <script>
+  // run after DOM loaded so iframe element exists
+  document.addEventListener('DOMContentLoaded', () => {
+    const iframe = document.getElementById('victim');
+    const log = document.getElementById('log');
+
+    if (!iframe) {
+      console.error('iframe #victim not found in parent.html — check element id.');
+      log.textContent = 'ERROR: iframe #victim not found.';
+      return;
+    }
+
+    // wait a short time for the iframe to request /set-cookie and server to set cookie
+    setTimeout(() => {
+      log.textContent = 'Parent document.cookie: ' + document.cookie;
+      console.log('Parent document.cookie:', document.cookie);
+    }, 700);
+  });
+  </script>
+</body>
 </html>
-
