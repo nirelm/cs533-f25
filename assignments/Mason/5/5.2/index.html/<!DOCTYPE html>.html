@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>5.2 – CORS custom headers demo</h2>
+    <pre id="out">Loading…</pre>
+
+    <script>
+      fetch('http://localhost:8091/info')
+        .then(r => {
+          // try to read custom headers
+          const h1 = r.headers.get('X-CS533f25-1');
+          const h2 = r.headers.get('X-CS533f25-2');
+          document.getElementById('out').textContent =
+            'Header 1: ' + h1 + '\nHeader 2: ' + h2 + '\n(should be null in blocked version)';
+          return r.json();
+        })
+        .then(data => console.log(data))
+        .catch(err => console.error(err));
+    </script>
+  </body>
+</html>
