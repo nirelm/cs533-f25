@@ -112,19 +112,16 @@
 ## Screenshots
 
 ### Parent page showing iframe
-![Parent Page](screenshots/parent_page.png)
+<img width="1381" height="839" alt="parent page" src="https://github.com/user-attachments/assets/6eb34231-c22c-4fb0-9e06-7f656a1f3073" />
 
-### Child console output
-![Child Console](screenshots/child_console.png)
-
-### Parent console with cookies
-![Parent Console](screenshots/parent_console.png)
-
+### Parent console with cookie
+<img width="378" height="414" alt="cookies" src="https://github.com/user-attachments/assets/ad560f45-97be-4398-ba52-e58ea2b001b8" />
+kies
 ### Response Headers showing cookies
-![Headers Screenshot](screenshots/headers.png)
+<img width="434" height="390" alt="response" src="https://github.com/user-attachments/assets/6c014c84-0f6c-47a0-a26c-7e2da3729fbf" />
 
 ### Terminal running Frame Path Attack server
-![Terminal Output](screenshots/terminal_output.png)
+<img width="689" height="322" alt="terminal running" src="https://github.com/user-attachments/assets/7cad546c-27b4-46b2-96bd-5116f97edfcc" />
 
 The frame-path attack demonstrates that pages which lack anti-framing protections (such as X-Frame-Options or Content-Security-Policy: frame-ancestors) can be embedded inside an attacker-controlled parent page. In a controlled, same-origin demo I loaded a child.html page inside a parent.html iframe, set cookies on each side, and used postMessage to show the parent and child could exchange information. The demo captures console output and screenshots showing Parent document.cookie and Child document.cookie, proving the framing succeeded. This highlights how missing headers can enable clickjacking or other iframe-based attacks.
 
