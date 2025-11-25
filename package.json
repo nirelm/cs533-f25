@@ -1,0 +1,24 @@
+{
+  "name": "cs533-f25",
+  "version": "1.0.0",
+  "description": "Instructor: [Kritika Garg](https://kritikagarg.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirelm/cs533-f25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirelm/cs533-f25/issues"
+  },
+  "homepage": "https://github.com/nirelm/cs533-f25#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^5.1.0"
+  }
+}
